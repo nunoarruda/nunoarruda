@@ -4,7 +4,7 @@
 - 📱 I’m an [Ionic Developer Expert](https://ionic.io/community#insiders)
 - 💪 I have 20 years of experience in web development
 - 🌍 I'm originally from Portugal but nowadays I work remotely from anywhere
-- 🌱 I work at Pulse Labs, helping advance the agrotech industry
+<!-- - 🌱 I work at Pulse Labs, helping advance the agrotech industry -->
 
 ## Skills
 
