@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Nuno.
 
-- 👨🏻‍💻 I'm a Senior Frontend Developer specializing in [Angular](https://angular.dev/) and [Ionic](https://ionic.io/developer-experts#experts) frameworks.
+- 👨🏻‍💻 I'm a Senior Frontend Developer specializing in [Angular](https://angular.dev/) and [Ionic](https://ionic.io/) frameworks.
 - 💪 I have 20+ years of professional experience in web development.
 - 🌍 I'm open to remote, long-term, part-time frontend development opportunities.
 <!-- - 🌱 I work at Pulse Labs, helping advance the agrotech industry -->
@@ -29,4 +29,4 @@
 ## Support
 
 <a href="https://www.buymeacoffee.com/nunoarruda"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" height="50" alt="Buy Me a Coffee" title="Buy Me a Coffee"></a>
-<a href="https://github.com/sponsors/nunoarruda"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" width="231" height="50" alt="GitHub Sponsors" title="GitHub Sponsors"></a>
+<a href="https://github.com/sponsors/nunoarruda"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" width="232" height="50" alt="GitHub Sponsors" title="GitHub Sponsors"></a>
